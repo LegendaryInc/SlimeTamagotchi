@@ -44,6 +44,14 @@ pyinstaller --onefile --add-data "us_flag.png;." --add-data "sk_flag.png;." --ad
 
 Make sure to include all image and data files in your distribution.
 
+## Standalone Windows Executable
+
+A pre-built `.exe` is available for Windows users.
+
+- [Download the latest Slime Tamagotchi .exe](https://github.com/LegendaryInc/SlimeTamagotchi/releases/latest)
+
+If you want to build it yourself, see the instructions above.
+
 ---
 
 Enjoy your slime!
